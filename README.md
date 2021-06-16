@@ -16,9 +16,11 @@ based off the currently existing std (June at 3.25, December at 3.75), most of t
 These differences are based off the following two summary statistics tables: 
 
 **June Temperature Statistics**
+
 ![June Temperature](https://github.com/swlim314/Surfs_Up_Analysis_Week_9/blob/4d9088e218b4b419d948a6ac265e9e5e9174567d/Resources/June%20Temperatures.png)
 
 **December Temperature Statistics**
+
 ![December Temperature](https://github.com/swlim314/Surfs_Up_Analysis_Week_9/blob/4d9088e218b4b419d948a6ac265e9e5e9174567d/Resources/December%20Temperatures.png)
 
 ## Summary
